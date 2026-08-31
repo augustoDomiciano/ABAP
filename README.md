@@ -21,3 +21,16 @@ Selection Screen:
   <img width="1458" height="854" alt="image" src="https://github.com/user-attachments/assets/c5086a41-af51-454c-a5ba-add2fc6dc7cf" />
 
 Tabela de mensagem: T100
+
+EVENTOS:
+
+Initialization, vem após o Load of Program
+
+Depois vem o Start of Selection
+
+Selection Screen, muito importante
+
+CLASSES:
+
+<img width="1436" height="923" alt="image" src="https://github.com/user-attachments/assets/3c0c9295-ab37-4d37-8ae3-c4a190d7016d" />
+
