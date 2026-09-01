@@ -36,3 +36,8 @@ CLASSES:
 
 <img width="1444" height="979" alt="image" src="https://github.com/user-attachments/assets/c5e9f5d7-6890-4528-8330-fde01fe9cb7d" />
 
+CONSTRUCTOR:
+
+<img width="1403" height="955" alt="image" src="https://github.com/user-attachments/assets/5cf2d105-a85a-43df-8ae6-746a5bc1a20b" />
+
+
