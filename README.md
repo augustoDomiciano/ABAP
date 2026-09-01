@@ -41,3 +41,16 @@ CONSTRUCTOR:
 <img width="1403" height="955" alt="image" src="https://github.com/user-attachments/assets/5cf2d105-a85a-43df-8ae6-746a5bc1a20b" />
 
 
+HERANÇA:
+
+<img width="1503" height="873" alt="image" src="https://github.com/user-attachments/assets/8ff1e76a-9aeb-4662-b862-341349c2d4cf" />
+
+
+Final Class: quando não quer que seja sobrescrito ou herdado
+
+<img width="1515" height="949" alt="image" src="https://github.com/user-attachments/assets/4c8bb507-5e3b-4a82-ae6f-00ecf8cc05f1" />
+
+Composition:
+
+<img width="1444" height="889" alt="image" src="https://github.com/user-attachments/assets/432f1584-d693-4c62-811e-e6c4bc5bce49" />
+
