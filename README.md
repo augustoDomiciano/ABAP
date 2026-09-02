@@ -54,3 +54,7 @@ Composition:
 
 <img width="1444" height="889" alt="image" src="https://github.com/user-attachments/assets/432f1584-d693-4c62-811e-e6c4bc5bce49" />
 
+Interfaces:
+
+<img width="606" height="915" alt="image" src="https://github.com/user-attachments/assets/7bcb8064-182b-4482-9645-0b11dc74ad89" />
+
