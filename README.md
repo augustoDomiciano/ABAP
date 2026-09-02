@@ -58,3 +58,22 @@ Interfaces:
 
 <img width="606" height="915" alt="image" src="https://github.com/user-attachments/assets/7bcb8064-182b-4482-9645-0b11dc74ad89" />
 
+
+Desafio:
+
+<img width="1557" height="784" alt="image" src="https://github.com/user-attachments/assets/2036b12f-223a-43de-beb2-1e975afcf0e3" />
+
+<img width="1535" height="679" alt="image" src="https://github.com/user-attachments/assets/161a30e7-836c-4ba1-aca0-0cc9b09559ce" />
+
+<img width="1518" height="592" alt="image" src="https://github.com/user-attachments/assets/d624beca-3408-49ab-b25e-8395b6e22aa9" />
+
+<img width="1536" height="533" alt="image" src="https://github.com/user-attachments/assets/d82857ce-5d13-477d-aee3-12956e6b377c" />
+
+<img width="1543" height="359" alt="image" src="https://github.com/user-attachments/assets/3cbc1096-2d61-43e7-bba7-6e0d6a2fd620" />
+
+<img width="1489" height="723" alt="image" src="https://github.com/user-attachments/assets/03f99d5b-6314-49e4-9a8e-bca5732fda38" />
+
+
+
+
+
