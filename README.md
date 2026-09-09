@@ -73,7 +73,16 @@ Desafio:
 
 <img width="1489" height="723" alt="image" src="https://github.com/user-attachments/assets/03f99d5b-6314-49e4-9a8e-bca5732fda38" />
 
+Exeptions:
 
+<img width="599" height="362" alt="image" src="https://github.com/user-attachments/assets/b2fa7dad-22c6-47da-b432-967d9bc2386c" />
 
+TRY/CATCH
+
+<img width="665" height="462" alt="image" src="https://github.com/user-attachments/assets/5171519d-a82f-4d7a-bd22-6294892e6a8c" />
+
+Raise excption type:
+
+<img width="1089" height="573" alt="image" src="https://github.com/user-attachments/assets/7fa3b8dd-7283-4162-8827-12c4c5e46851" />
 
 
