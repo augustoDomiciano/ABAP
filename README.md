@@ -85,4 +85,7 @@ Raise excption type:
 
 <img width="1089" height="573" alt="image" src="https://github.com/user-attachments/assets/7fa3b8dd-7283-4162-8827-12c4c5e46851" />
 
+<img width="1059" height="571" alt="image" src="https://github.com/user-attachments/assets/8cab4e34-a365-483d-9e79-15a90fe358f3" />
+
+Message class exeption se91
 
